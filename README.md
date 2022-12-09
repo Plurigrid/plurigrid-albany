@@ -1,6 +1,6 @@
 # Albany Plurigrid
 Albany Plurigrid uses Augmented Bonding Curve together with
-- `$cUSD` on Celo instead of `$wxDAI` on Gnosis
+- `$cUSD` ABC Hatch and contracts on Celo (following [Token Engineering Common](https://convert.tecommons.org/) `$wxDAI`/ Gnosis)
 - iPhone and Android e-apps built in Flutter
 
 # Running e-app in simulator ⚡️
