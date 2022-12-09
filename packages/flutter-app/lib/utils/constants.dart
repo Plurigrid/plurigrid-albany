@@ -17,7 +17,7 @@ class GlobalConstants {
   static const String testnetApiUrl =
       "https://alfajores-forno.celo-testnet.org";
   static const String bridge = "https://bridge.walletconnect.org";
-  static const String name = "Celo Composer - Flutter";
+  static const String name = "Albany Plurigrid";
   static const String url = "https://celo.org";
   static const int chainId = 5;
   static const int testnetChainId = 44787;

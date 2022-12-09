@@ -81,7 +81,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             const Height15(),
             Text(
-              AllStrings().celoComposer,
+              AllStrings().albanyPlurigrid,
               textAlign: TextAlign.center,
               style: Theme.of(context).textTheme.headline1!.copyWith(
                     fontSize: 20,

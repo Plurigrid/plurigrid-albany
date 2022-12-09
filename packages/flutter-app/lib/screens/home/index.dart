@@ -251,7 +251,7 @@ class _IndexPageState extends State<IndexPage> {
                 : Column(
                     children: [
                       Text(
-                        AllStrings().celoComposer,
+                        AllStrings().albanyPlurigrid,
                         textAlign: TextAlign.center,
                         style: Theme.of(context).textTheme.headline1!.copyWith(
                               fontSize: 40,

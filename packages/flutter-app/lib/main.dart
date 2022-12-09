@@ -36,7 +36,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     ThemeController themeController = context.watch<ThemeController>();
     return MaterialApp(
-      title: AllStrings().celoComposer,
+      title: AllStrings().albanyPlurigrid,
       debugShowCheckedModeBanner: false,
       localizationsDelegates: context.localizationDelegates,
       supportedLocales: context.supportedLocales,

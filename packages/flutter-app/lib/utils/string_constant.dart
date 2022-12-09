@@ -6,6 +6,7 @@ class AllStrings {
   String celo = 'Celo';
   String flutter = 'Flutter';
   String celoComposer = 'Celo Composer';
+  String albanyPlurigrid = 'Albany Plurigrid';
   String amount = 'amount';
   String address = 'address';
   String sendToken = 'send_token';
