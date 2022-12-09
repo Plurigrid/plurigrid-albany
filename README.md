@@ -1,6 +1,6 @@
 # Albany Plurigrid
 Albany Plurigrid uses Augmented Bonding Curve together with
-- `$cUSD` ABC Hatch and contracts on Celo (following [Token Engineering Common](https://convert.tecommons.org/) `$wxDAI`/ Gnosis)
+- `$cUSD` ABC Reserve Currency on Celo (following [Token Engineering Commons](https://token-engineering-commons.gitbook.io/tec-handbook/budgeting-and-reward-system/abc-and-the-common-pool) principles)
 - iPhone and Android e-apps built in Flutter
 
 # Running e-app in simulator ⚡️
